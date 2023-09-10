@@ -8,5 +8,4 @@ pipenv install django
 
 # To Activate virtual Environment
 pipenv shell
-
 ```
